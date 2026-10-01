@@ -76,7 +76,7 @@ This allowed the event participants to use NRP models without setting anything u
 
 ### Claude
 
-Each participant received an e-mail from the [UW eScience Institute](https://escience.washington.edu/) with their own API key for [UW SSEC's](https://escience.washington.edu/software-engineering/ssec/) [LLMoxie AI Gateway](https://arxiv.org/abs/2607.02703).
+Each participant received an e-mail from the [UW eScience Institute](https://escience.washington.edu/) with their own API key for [UW SSEC's](https://escience.washington.edu/software-engineering/ssec/) [LLMoxie AI Platform](https://arxiv.org/abs/2607.02703).
 This allowed the organizers to monitor the usage of each participant, control they costs could incur, and prevent participants from ever seeing raw API keys for Anthropic.
 LLMoxie also adds a layer of security, since it can mask sensitive information in requests before they reach the model.
 Model inference was provided through an allocation from [NSF CloudBank](https://www.cloudbank.org/).
