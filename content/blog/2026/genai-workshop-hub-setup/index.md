@@ -28,7 +28,7 @@ Don't treat it as a "best practices" post, more like a "here's one pattern to co
 
 Here's a quick description of what each user on the hub had access to:
 
-- Two coding harnesses ready to use in the terminal: [Claude Code](https://github.com/anthropics/claude-code) and [opencode](https://opencode.ai).
+- Two coding agents ready to use in the terminal: [Claude Code](https://github.com/anthropics/claude-code) and [opencode](https://opencode.ai).
 - A pre-release of [Jupyter AI](https://github.com/jupyterlab/jupyter-ai) 3.2, for chatting with opencode inside JupyterLab (thanks to [David Qiu](https://github.com/dlqqq) for doing some rapid pre-releasing during the event!).
 - Claude models, through a API key from UW eScience for each participant (using LLMoxie, more on this below).
 - Open-weights models served by the [National Research Platform (NRP)](https://nrp.ai/documentation/userdocs/ai/llm-managed/) and preconfigured in opencode.
